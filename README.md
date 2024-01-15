@@ -1,2 +1,2 @@
 # spring-boot-swagger
-Springboot CRUD with Swagger Implementation
+Documenting a Spring REST API Using OpenAPI 3.0
